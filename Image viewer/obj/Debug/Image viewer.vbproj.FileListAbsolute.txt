@@ -1,0 +1,57 @@
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\bin\Debug\Image viewer.exe.config
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\bin\Debug\Image viewer.exe
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\bin\Debug\Image viewer.pdb
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\bin\Debug\Image viewer.xml
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image viewer.vbprojResolveAssemblyReference.cache
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image_viewer.Form1.resources
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image_viewer.Resources.resources
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image viewer.vbproj.GenerateResource.Cache
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image viewer.exe
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image viewer.xml
+c:\users\tamie\documents\visual studio 2015\Projects\Image viewer\Image viewer\obj\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\bin\Debug\Image viewer.exe.config
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\bin\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\bin\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\bin\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image_viewer.Form1.resources
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image_viewer.Resources.resources
+C:\Users\Tamie\Documents\Manga\Image viewer\Image viewer\obj\Debug\Image viewer.vbproj.GenerateResource.Cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\bin\Debug\Image viewer.exe.config
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\bin\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\bin\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\bin\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image_viewer.Form1.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image_viewer.Resources.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - Copia\Image viewer\obj\Debug\Image viewer.vbproj.GenerateResource.Cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\bin\Debug\Image viewer.exe.config
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image_viewer.MangáViewer.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image_viewer.Resources.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image viewer.vbproj.GenerateResource.Cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\bin\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\bin\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\bin\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2\Image viewer\obj\Debug\Image_viewer.Ajuda.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\bin\Debug\Image viewer.exe.config
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\bin\Debug\Image viewer.exe
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\bin\Debug\Image viewer.pdb
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\bin\Debug\Image viewer.xml
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image_viewer.Ajuda.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image_viewer.MangáViewer.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image_viewer.Resources.resources
+C:\Users\Tamie\Documents\Manga\Image viewer ok - ver 4.2 - Copia\Image viewer\obj\Debug\Image viewer.vbproj.GenerateResource.Cache
